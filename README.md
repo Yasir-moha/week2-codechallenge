@@ -35,7 +35,7 @@ Interactive Shopping List is a web application that allows users to manage their
 
 
 ## Contact Details
-
+https://github.com/Yasir-moha/week2-codechallenge.git
 ## License
 
 The content of this site is licensed under the MIT license Copyright (c) 2024.
