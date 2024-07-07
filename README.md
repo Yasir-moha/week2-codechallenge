@@ -2,7 +2,7 @@
 Date, 2024/7/7
 By YASIR MOHAMED
 
-# Wk2-Code-Challenge
+# Description
 
 Interactive Shopping List is a web application that allows users to manage their shopping lists. Users can add items, mark them as purchased and clear the list. The list is saved using local storage, so it persists even after the page reloads.
 
